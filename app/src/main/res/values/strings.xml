@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Smart Vote</string>
+    <string name="countdown">Count Down To Election Day</string>
+    <string name="next">NEXT</string>
+    <string name="Days">Days</string>
+    <string name="Hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="Seconds">Seconds</string>
+</resources>
